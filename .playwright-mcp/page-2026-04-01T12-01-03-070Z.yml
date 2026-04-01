@@ -1,0 +1,1 @@
+- generic [ref=e2]: "{\"success\":false,\"message\":\"Cannot GET /\",\"data\":{\"error\":\"Cannot GET /\",\"statusCode\":404,\"timestamp\":\"2026-04-01T12:01:02.726Z\",\"path\":\"/\"}}"

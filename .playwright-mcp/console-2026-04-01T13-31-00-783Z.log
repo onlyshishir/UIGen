@@ -1,0 +1,2 @@
+[    2202ms] [ERROR] Access to font at 'https://assets.anthropic.com/m/78f19c4a1fe4b2b6/original/StyreneBLC-Medium.otf' from origin 'https://anthropic.skilljar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://anthropic.skilljar.com/claude-code-in-action:0
+[    2202ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://assets.anthropic.com/m/78f19c4a1fe4b2b6/original/StyreneBLC-Medium.otf:0
